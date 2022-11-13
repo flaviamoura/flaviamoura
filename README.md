@@ -1,8 +1,8 @@
 ### Hey hey hey, eu sou a Flavia Rafaela <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-- 🌱 Atualmente estou aprendendo tudo 🤣
+- 🌱 I'm currently learning everything 🤣
 - 📫 contatoflamoura@gmail.com
-- ⚡ Hobbies: jogar, ler, meditar e tocar ukulele
+- ⚡ Hobbies: play and collect games, read sci-fi books, workout, ukulele
 
 ### Languages and Tools:
 
