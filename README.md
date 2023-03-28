@@ -1,3 +1,4 @@
+![Profile views](https://gpvc.arturio.dev/flaviamoura)
 ### Hey hey hey, I'm Flavia Rafaela <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 - 🌱 I'm currently learning Node.js 
@@ -24,4 +25,19 @@
 <br />
   
  ![Snake animation](https://github.com/flaviamoura/flaviamoura/blob/output/github-contribution-grid-snake.svg)
+ 
+ <div align="left">
+  <a href = "mailto:contatoflamoura@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/flavia-rafaela-moura-rhodes/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/yuumi.js?igshid=ZDdkNTZiNTM=" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://steamcommunity.com/id/FlaviaYu/" target="_blank">
+    <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank">
+  </a>
+</div>
  
