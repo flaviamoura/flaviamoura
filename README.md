@@ -1,8 +1,9 @@
 <div align="center">
        
+![header](https://capsule-render.vercel.app/api?type=waving&color=FDD1E1&height=280&section=header&text=Welcome!&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=to%20Flavia's%20GITHUB%20&descAlignY=51&descAlign=62)
+ 
 ![Profile views](https://gpvc.arturio.dev/flaviamoura)
-### Hi , I'm Flavia Rafaela <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+       
 ### 🌱 I'm currently learning 🌱
  
  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -37,5 +38,6 @@
 
  
 ❤️️❤️️❤️️
+<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </div>
  
