@@ -2,7 +2,8 @@
 <img src="https://cdn.discordapp.com/attachments/658812730890911774/1307012750169342043/totoro.gif?ex=6738c1fa&is=6737707a&hm=54571c852771951e005f3695cf91a4424b3c40b69d51127f470501cea43dc7ac&" width="25%" align="right" />  
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=false&vCenter=false&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Flavia%2C+nice+to+meet+you!" width="70%" />
 
-I'm a Full Stack Developer and tech enthusiast. Feel free to connect with me here or on my linkedin.
+I'm a Full Stack Developer and tech enthusiast, graduated in Systems Analysis and Development. </br>
+Feel free to connect with me here or on my linkedin.
 
 <ul>
     <li>🌱 I'm currently learning Node.JS and React.</li>
